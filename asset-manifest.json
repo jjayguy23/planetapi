@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/planetapi/static/css/main.160019ec.chunk.css",
+    "main.js": "/planetapi/static/js/main.10d90d54.chunk.js",
+    "main.js.map": "/planetapi/static/js/main.10d90d54.chunk.js.map",
+    "runtime-main.js": "/planetapi/static/js/runtime-main.09fe40b4.js",
+    "runtime-main.js.map": "/planetapi/static/js/runtime-main.09fe40b4.js.map",
+    "static/css/2.036b41f9.chunk.css": "/planetapi/static/css/2.036b41f9.chunk.css",
+    "static/js/2.cbccdc0c.chunk.js": "/planetapi/static/js/2.cbccdc0c.chunk.js",
+    "static/js/2.cbccdc0c.chunk.js.map": "/planetapi/static/js/2.cbccdc0c.chunk.js.map",
+    "index.html": "/planetapi/index.html",
+    "precache-manifest.9b9d1b3c7cff63b456221dbe149e53e0.js": "/planetapi/precache-manifest.9b9d1b3c7cff63b456221dbe149e53e0.js",
+    "service-worker.js": "/planetapi/service-worker.js",
+    "static/css/2.036b41f9.chunk.css.map": "/planetapi/static/css/2.036b41f9.chunk.css.map",
+    "static/css/main.160019ec.chunk.css.map": "/planetapi/static/css/main.160019ec.chunk.css.map",
+    "static/js/2.cbccdc0c.chunk.js.LICENSE.txt": "/planetapi/static/js/2.cbccdc0c.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/planetapi/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.09fe40b4.js",
+    "static/css/2.036b41f9.chunk.css",
+    "static/js/2.cbccdc0c.chunk.js",
+    "static/css/main.160019ec.chunk.css",
+    "static/js/main.10d90d54.chunk.js"
+  ]
+}
